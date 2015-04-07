@@ -1,0 +1,19 @@
+{
+  "name": "node-fitness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "express": "^4.12.3",
+    "googleapis": "^2.0.2",
+    "lodash": "^3.6.0",
+    "moment": "^2.10.0",
+    "nodemon": "^1.3.7"
+  }
+}
